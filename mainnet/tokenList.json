@@ -1,29 +1,29 @@
 {
 	"tokens": [
 		{
-			"denom": "usei",
-			"fullName": "Sei",
-			"symbol": "SEI",
-			"tokenPrettyName": "Sei",
+			"denom": "untrn",
+			"fullName": "Neutron",
+			"symbol": "ntrn",
+			"tokenPrettyName": "Neutron",
 			"chain": {
-				"chainName": "sei",
-				"chainPrettyName": "Sei Network",
-				"localDenom": "usei",
-				"chainId": "pacific-1",
+				"chainName": "neutrontestnet",
+				"chainPrettyName": "Neutron Testnet",
+				"localDenom": "untrn",
+				"chainId": "pion-1",
 				"gasPrice": {
-					"denom": "usei",
-					"amount": "100000"
+					"denom": "untrn",
+					"amount": "200000"
 				},
-				"rpc": ["https://rpc.sei-apis.com"],
-				"grpc": ["https://grpc.sei-apis.com"],
-				"rest": ["https://rest.sei-apis.com"],
+				"rpc": ["https://rpc-falcron.pion-1.ntrn.tech"],
+				"grpc": ["grpc-falcron.pion-1.ntrn.tech:80"],
+				"rest": ["https://rest-falcron.pion-1.ntrn.tech"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png",
-			"logoHash": "L3EAsd9=00$~2gR~}ESK00,C%LJ-"
+			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/neutrontestnet/images/neutron-black-logo.png"
+			
 		},
 		{
 			"denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
