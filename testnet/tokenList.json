@@ -88,7 +88,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/MikeVerse/assetlist-proxy/main/assets/testnet/uATOM.png",
+			"logoURI": "https://raw.githubusercontent.com/MikeVerse/assetlist-proxy/main/assets/testnet/tATOM.png",
 			"logoHash": "LKQSbYR8KB$[yDTMsknftmb_RjR:"
 		},
 		{
@@ -110,7 +110,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/MikeVerse/assetlist-proxy/main/assets/testnet/uBTC.png",
+			"logoURI": "https://raw.githubusercontent.com/MikeVerse/assetlist-proxy/main/assets/testnet/tBTC.png",
 			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		}
 	]
