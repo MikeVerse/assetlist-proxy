@@ -4,11 +4,7 @@
 			"tokenA": "ntrn",
 			"tokenB": "tATOM",
 			"swapAddress": "neutron1wfsp9h9t0avrjpjly8h9v8hyng67m8n3qatu7xkvqgmqwazu9tkssv2hgr",
-			"bondingPeriods": [
-				{ "address": "neutron1wfsp9h9t0avrjpjly8h9v8hyng67m8n3qatu7xkvqgmqwazu9tkssv2hgr" },
-				{ "address": "neutron1wfsp9h9t0avrjpjly8h9v8hyng67m8n3qatu7xkvqgmqwazu9tkssv2hgr" },
-				{ "address": "neutron1wfsp9h9t0avrjpjly8h9v8hyng67m8n3qatu7xkvqgmqwazu9tkssv2hgr" }
-			],
+			
 			"isVerified": true
 		}	
 	]
