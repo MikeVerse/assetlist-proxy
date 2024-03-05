@@ -22,7 +22,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/neutrontestnet/images/neutron-black-logo.png"
+			"logoURI": "https://raw.githubusercontent.com/MikeVerse/assetlist-proxy/main/assets/testnet/ntrn.png"
 			
 		},
 		{
