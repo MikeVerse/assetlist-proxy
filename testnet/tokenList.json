@@ -3,7 +3,7 @@
 		{
 			"denom": "untrn",
 			"fullName": "Neutron",
-			"symbol": "ntrn",
+			"symbol": "NTRN",
 			"tokenPrettyName": "Neutron",
 			"chain": {
 				"chainName": "neutrontestnet",
