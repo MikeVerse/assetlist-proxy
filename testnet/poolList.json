@@ -7,7 +7,7 @@
 			"bondingPeriods": [
 				{ "address": "neutron1027mqmzjeszuf6gn6ktnwpqvcy42wh63jr3zp5ykx4h35jwxv94qn2tflr" }
 			],
-			"isVerified": false
+			"isVerified": true
 		}	
 	]
 }
