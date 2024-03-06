@@ -26,15 +26,15 @@
 			
 		},
 		{
-			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tTEST",
-			"fullName": "Unknown",
-			"symbol": "UNKNOWN",
+			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/ELE",
+			"fullName": "Electron",
+			"symbol": "ELE",
 			"tokenPrettyName": "Unknown",
 			"chain": {
 				"chainName": "neutrontestnet",
 				"chainPrettyName": "Neutron Testnet",
 				"chainId": "pion-1",
-				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tTEST",
+				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/ELE",
 				"gasPrice": {
 					"denom": "untrn",
 					"amount": "200000"
